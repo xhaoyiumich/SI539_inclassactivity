@@ -1,0 +1,20 @@
+h1{color:blue;
+background-color: aqua;
+text-align: center;
+font-size: x-large;}
+
+p{
+    color:green;
+    font-size: medium;
+    text-align:center;
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: medium;
+}
+ul{
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    text-align: center;
+}
