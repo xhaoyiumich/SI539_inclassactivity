@@ -8,8 +8,9 @@ p{
     font-size: medium;
     text-align:center;
 }
+
 h2{
-    color: rgb(0, 0, 0);
+    color: rgb(29, 40, 189);
     text-align: center;
     font-size: medium;
 }
@@ -17,4 +18,11 @@ ul{
     color: rgb(0, 0, 0);
     font-size: medium;
     text-align: center;
+}
+li{
+    border: solid 2px black;
+    border-color: blueviolet;
+    border-style: dashed;
+    border-width: 5px;
+    ;
 }
